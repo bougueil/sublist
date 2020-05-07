@@ -7,7 +7,7 @@ A collection of algos in Elixir not easily found on the Internet
   find the index of a sublist in a list
 
       iex> Sublist.index([0,1,1,2,3,4], [1,2,3])
-      1
+      2
 
       iex> Sublist.index([0,0,2,3,4], [1,2,3])
       -1
