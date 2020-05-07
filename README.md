@@ -4,7 +4,7 @@ A collection of algos in Elixir not easily found on the Internet
 ```elixir
   Examples
 
-  find the index of a sublist in a list
+  find the index of a list inside a list
 
       iex> Sublist.index([0,1,1,2,3,4], [1,2,3])
       2
